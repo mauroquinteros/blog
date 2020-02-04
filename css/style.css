@@ -2,13 +2,22 @@ body{
   color: crimson;
   font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
   font-size: 16px;
+  margin: 0;
+  padding: 0;
 }
 h1{
-  font-size: 30px;
+  font-size: 25px;
+  margin: 0;
+}
+#cabecera{
+  background-color: #33a;
+  color: #ffffff;
+  font-weight: bold;
+  margin: 0;
+  padding: 0 .5em;
 }
 #container{
   width: 70%;
-  padding: 1em;
   margin: 0 auto;
   border: 1px solid #ddd;
   text-align: center;
